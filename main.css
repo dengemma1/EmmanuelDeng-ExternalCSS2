@@ -1,0 +1,45 @@
+body{
+    width: 70;
+    background-color: rgb(127, 165, 255);
+    margin: auto;
+    border: 2px solid;
+    }
+    main{
+    background-color: rgb(77, 90, 4);
+    margin: auto;
+    border: 2px solid red;
+    padding: 5px;
+    
+    }
+    
+    h1{
+    color: rgb(0, 229, 255);
+    }
+    p{
+    background-color: rgb(255, 0, 0);
+    color: whitesmoke;
+    }
+    
+    .dengstyles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: brown;
+    color: yellowgreen;
+    
+    }
+    ul{
+    text-decoration: none;
+    }
+    li{
+    display: block;
+    
+    }
+    a{
+    text-decoration: aqua;
+    
+    }
+    h2{
+color: rgb(0, 255, 85);
+animation: forwards;
+
+    }
+    
